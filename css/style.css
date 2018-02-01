@@ -38,6 +38,11 @@ ul li {
   margin: 0 auto;
   padding: 0;
 }
-#capitals, #countries {
+li {
+  height: 70px;
+  width: 180px;
+  line-height: 50px;
+}
+#capitals, #countries, #flags {
   padding: 0;
 }
